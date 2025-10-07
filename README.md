@@ -1,5 +1,4 @@
 # Walmart Sales Data Analysis
-
 ## About the Project
 
 This project explores **Walmart sales data** to understand:
